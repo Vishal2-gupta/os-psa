@@ -1,7 +1,8 @@
 #include<stdio.h>
  int main()
 {
-    int bt[30],p[30],wt[30],tat[30],pr[30],at[30];
+    int bt[20],p[30],wt[30],tat[20],pr[30],at[20];
+	 
     int i,j,n,total=0,pos,temp,avg_wt,avg_tat;
     printf("Enter Total Number of Process:");
     scanf("%d",&n);
