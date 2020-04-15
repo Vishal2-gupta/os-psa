@@ -1,7 +1,7 @@
 #include<stdio.h>
  int main()
 {
-    int bt[15],p[15],wt[30],tat[30],pr[15],at[20];
+    int bt[15],p[15],wt[20],tat[30],pr[15],at[20];
     int i,j,n,total=0,pos,temp,proc,avg_wt,avg_tat,priorityScheduling;
 
     printf("Enter Total Number of Process:");
